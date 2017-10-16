@@ -2,7 +2,7 @@
 ## Government employees committed to cutting red tape
 
 ### [] Purpose
-We are here as members of the civic technology community, to apply our skills and knowledge from government service as private citizens, in support of civic technology projects in our communities. It is our goal to serve as a public sector consultancy at Chi Hack Night and provide a resource to civic hacktivists.
+__***A learning group***__: we are here as members of the civic technology community, to apply our skills and knowledge from government service as private citizens, in support of civic technology projects in our communities. It is our goal to serve as a public sector consultancy at Chi Hack Night and provide a resource to civic hacktivists.
 
 ### [] Who are we?
 We are a network of over 500 public sector employees in Chicago. Organized through [Young Government Leaders: Chicago](http://chigov.space), we represent government entities at the municipal, state, and federal levels. If you are a govie, check us out. We have contacts at most agencies with a presence in Chicago and are always looking for ways to be more inclusive.
