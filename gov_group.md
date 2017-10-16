@@ -1,5 +1,5 @@
 # Bureaucracy Busters
-## Government employees committed to overcoming red tape
+## Government employees committed to cutting red tape
 
 ### [] Purpose
 We are here as members of the civic technology community, to apply our skills and knowledge from government service as private citizens, in support of civic technology projects in our communities. It is our goal to serve as a public sector consultancy at Chi Hack Night and provide a resource to civic hacktivists.
