@@ -20,4 +20,4 @@ We are a network of over 500 public sector employees in Chicago. Organized throu
 - We like to hang out in a group.
 - We have a [YGL Logo](#) printed on a piece of paper nearby.
 - We like to be in the mess hall or in the comfy chairs in the back/ sides of the presentation area.
-- We are on the [Chi Hack Night Slack](https://chihacknight.slack.me) in the #gov-group channel. DM `@csethna` if you have trouble locating us.
+- We are on the [Chi Hack Night Slack](https://chihacknight.slack.me) in the #bureaucracy-busters channel. DM `@csethna` if you have trouble locating us.
